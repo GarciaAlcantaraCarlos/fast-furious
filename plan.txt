@@ -1,0 +1,3 @@
+Estrategia:
+ 1. Ganar
+ 2. No perder
